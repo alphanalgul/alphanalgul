@@ -7,7 +7,7 @@
 ---
 
 ### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/alphan-alg%C3%BCl-31502b266/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/alphan-alg%C3%BCl-31502b266/)
 
 ---
 

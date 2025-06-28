@@ -24,7 +24,7 @@
 
 ### 📊 GitHub Stats and Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphanalgul&layout=compact&theme=tokyonight)](https://github.com/alphanalgul)
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=alphanalgul&show_icons=true&theme=tokyonight)
 
 ---
 

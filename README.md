@@ -1,6 +1,6 @@
 <h2>👋 Hello, I'm Alphan Algül</h2>
 
-23 Year old computer engineer
+21 Year old computer engineer
 
 📫 **How to reach me:** alphanalgul@gmail.com
 

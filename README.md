@@ -23,7 +23,7 @@
 </p>
 
 ### 📊 Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphanalgul&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/alphanalgul)
+https://github-readme-stats.vercel.app/api/top-langs/?username=alphanalgul&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/alphanalgul
 
 ### 💼 GitHub Stats:
 [![Alphan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphanalgul&show_icons=true&theme=tokyonight)](https://github.com/alphanalgul)

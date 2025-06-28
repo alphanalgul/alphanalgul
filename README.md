@@ -23,7 +23,7 @@
 </p>
 
 ### 📊 Most Used Languages:
-https://github-readme-stats.vercel.app/api/top-langs/?username=alphanalgul&layout=compact&langs_count=10&theme=tokyonight
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphanalgul&layout=compact)
 
 ### 💼 GitHub Stats:
 https://github-readme-stats.vercel.app/api?username=alphanalgul&show_icons=true&theme=tokyonight

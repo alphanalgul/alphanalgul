@@ -23,10 +23,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 </p>
 
-### Most Used Languages:
-[![Languages](https://img.shields.io/github/languages/top/alphanalgul/metucengprogexercises)](https://github-readme-stats.vercel.app/api/top-langs/?username=alphanalgul&layout=compact&theme=dark&hide_progress=true
-)
-
+### 📊 Most Used Languages
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alphanalgul&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alphanalgul&theme=github_dark)
 
 
 

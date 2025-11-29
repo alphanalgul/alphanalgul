@@ -24,8 +24,8 @@
 </p>
 
 ### 📊 Most Used Languages
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alphanalgul&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alphanalgul&theme=github_dark)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alphanalgul&layout=compact&theme=dark)
+
 
 
 

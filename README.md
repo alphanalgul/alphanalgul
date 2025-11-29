@@ -24,7 +24,8 @@
 </p>
 
 ### Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphanalgul&layout=compact)
+![Top Langs](https://github-readme-stats-psi-seven.vercel.app/api/top-langs/?username=alphanalgul&layout=compact&theme=dark)
+
 
 
 

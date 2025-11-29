@@ -24,7 +24,8 @@
 </p>
 
 ### Most Used Languages:
-![Languages](https://img.shields.io/github/languages/top/alphanalgul/metucengprogexercises)
+[![Languages](https://img.shields.io/github/languages/top/alphanalgul/metucengprogexercises)](https://github-readme-stats.vercel.app/api/top-langs/?username=alphanalgul&layout=compact&theme=dark&hide_progress=true
+)
 
 
 

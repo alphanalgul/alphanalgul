@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 </p>
 
-### 📊 Most Used Languages:
+### Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphanalgul&layout=compact&cache_seconds=10)
 
 
